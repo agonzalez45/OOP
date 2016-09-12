@@ -1,0 +1,22 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+//int binary(int arr[], int bin)
+
+
+int main(){
+	int n;
+	cin >> n;
+	int arr[n];
+	int bin= arr[n]; 
+cout << bin << endl;
+/*
+	while(cin >> n){
+		if(n>0){
+		cout << hex << n;
+		}
+		
+	}
+*/
+}
+
